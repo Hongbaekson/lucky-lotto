@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+backups/
+reports/
+weekly/
+*.tmp.xlsx
+~$*.xlsx
+.~lock.*#
